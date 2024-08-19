@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sai Ragini Ummareddy- Portfolio</title>
+    <link rel="stylesheet" href="stylesss.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Sai Ragini</h1>
+            <p>Web Developer | Designer </p>
+        </div>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#home">HOME</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section id="home">
+        <h2>I'm Sai Ragini, a student of Vignan's University. I will develop webpages and create few forms.</h2>
+    </section>
+    
+    <section id="about-section" class="about-section">
+        <h1>About Me</h1>
+        <h3>Hi, I am Sai Ragini.
+            I am currently a student of Vignan's University pursuing B.tech 3rd year of department CSE.
+            </h3>
+        <h3>Other than coding, I also do some other activities like:<br>
+           Listening music<br>
+           watching films<br>
+           reading books<br>
+            </h3>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>web page</h3>
+            <p>This project displays the Web page that meets the requirements that they required. It utilizes HTML elements, CSS for styling, and JavaScript for Date Object manipulation, DOM interactions, and time formatting.</p>
+            <a href="https://1drv.ms/u/c/02871a38048d3824/EUFy7tPHihBJn2SWsSXQ4BoBcHdQuboFWmcdNpxKiUSUAQ?e=G7ePE1" class="btn">View Project</a>
+        </div>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Interested in working together? Let's talk!</p>
+        <div class="contact-method">
+            <h3>Mail</h3>
+            <img src="mail.jpg" alt="Mail Icon">
+            <div class="contact-details">
+                <p>Email: 221fa04307@gmail.com</p>
+                <button>Email</button>
+            </div>
+    </section>
+        
+
+    
+</body>
+</html>
